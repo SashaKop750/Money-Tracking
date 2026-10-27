@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Ledger: money tracker",
+  "short_name": "Ledger",
+  "description": "A simple, private money tracker for accounts, budgets, transactions, and savings goals.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3F1EA",
+  "theme_color": "#F3F1EA",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
