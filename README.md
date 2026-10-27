@@ -28,5 +28,5 @@ Data is saved in this browser on this device. It is not automatically synced bet
 - `index.html` — app entry point
 - `manifest.webmanifest` — installable app metadata
 - `service-worker.js` — offline app-shell cache
-- `icon.svg` — app icon
+- `icon.svg`, `icon-192.png`, and `icon-512.png` — app icons
 - `Ledger_ money tracker.html` and `Ledger_ money tracker.md` — original project files
